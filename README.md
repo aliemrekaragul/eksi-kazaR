@@ -1,5 +1,7 @@
 # 📚 Ekşi KazaR
-🔗 **Live Demo:** [https://aliemrekaragul.shinyapps.io/eksi-kazaR/](https://aliemrekaragul.shinyapps.io/eksi-kazaR/)
+🔗 **Live Demo:** [eksi-kazaR](https://aliemrekaragul.shinyapps.io/eksi-kazaR/)
+
+
 **Ekşi KazaR**, *Ekşi Sözlük*'teki herhangi bir başlık altındaki içerikleri kazıyarak kelime bulutu şeklinde görselleştiren bir Shiny uygulamasıdır. Bir başlığı özet gibi görselleştirir.
 
 ## 🚀 Özellikler
